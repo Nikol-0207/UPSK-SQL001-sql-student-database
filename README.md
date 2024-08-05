@@ -12,24 +12,6 @@
 
 ---
 
-## 1. Consideraciones generales
-
-* Este proyecto lo resolvemos de manera **individual**.
-* El rango de tiempo estimado para completar el proyecto es de 2 a 5 Sprints.
-* Enfócate en aprender y no solamente en "completar" los tutoriales o ejercicios.
-
-## 2. Preámbulo
-
-![Workshop](https://images.unsplash.com/photo-1426927308491-6380b6a9936f)
-
-_Credito: Foto de [Barn Images](https://unsplash.com/@barnimages)_
-_en [Unsplash](https://unsplash.com/photos/assorted-handheld-tools-in-tool-rack-t5YUoHW6zRo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_
-
-Los comandos DDL (Data Definition Language) en SQL son fundamentales para la creación,
-modificación y eliminación de objetos de base de datos. Estos comandos permiten
-definir la estructura y características de las tablas, índices, vistas y otros
-elementos esenciales en el diseño de una base de datos.
-
 ## 3. Resumen del proyecto
 
 En este proyecto seguirás dos tutoriales de freeCodeCamp para aprender
@@ -119,36 +101,10 @@ Para crear una cuenta en Gitpod utilizando GitHub, sigue estos pasos:
    el entorno automáticamente.
 5. Inicia el tutorial de nuevo siguiendo el paso 3.
 
-## 5. Entregable
-
-Haz fork a este repositorio. Luego ajustar el README para registrar
-todos los comandos ejecutados durante los tutoriales. Puede usar
-el siguiente formato:
-
-```md
-# Tutorial 1
-
-## Paso 1
-
-   `echo sql Hello`
-
-## Paso 2
-
-   `psql --username=freecodecamp --dbname=psql`
-```
-
 Puedes obtener un historial de los comandos ejecutados en una terminal
 con el comando `history`.
 
-## 6. Consideraciones para pedir tu Project Feedback
-
-Antes de agendar tu Project Feedback con tu coach, asegúrate de:
-
-* [ ] Completar los 2 tutoriales propuestos
-* [ ] Tener un fork con un entorno de Gitpod completo
-
 ## 7. Objetivos de aprendizaje
-
 
 Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
 
