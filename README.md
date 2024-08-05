@@ -1,18 +1,13 @@
 # Student Database
 
 ## Índice
-
-* [1. Consideraciones generales](#1-consideraciones-generales)
-* [2. Preámbulo](#2-preámbulo)
-* [3. Resumen del proyecto](#3-resumen-del-proyecto)
-* [4. Configuración del Ambiente de Desarrollo](#4-configuracion-del-ambiente-de-desarrollo)
-* [5. Entregables](#5-entregables)
-* [6. Consideraciones para pedir tu Project Feedback](#6-consideraciones-para-pedir-tu-project-feedback)
-* [7. Objetivos de aprendizaje](#7-objetivos-de-aprendizaje)
+* [1. Resumen del proyecto](#3-resumen-del-proyecto)
+* [2. Configuración del Ambiente de Desarrollo](#4-configuracion-del-ambiente-de-desarrollo)
+* [3. Objetivos de aprendizaje](#7-objetivos-de-aprendizaje)
 
 ---
 
-## 3. Resumen del proyecto
+## 1. Resumen del proyecto
 
 En este proyecto seguirás dos tutoriales de freeCodeCamp para aprender
 los comandos DDL (Data Definition Language) en SQL.
@@ -29,6 +24,10 @@ scripts Bash para automatizar tareas y gestionar permisos de archivos.
 
 Haz clic [aquí para iniciar el primer tutorial](https://gitpod.io/new/?autostart=true#CODEROAD_TUTORIAL_URL=https%3A%2F%2Fraw.githubusercontent.com%2FLaboratoria%2Flearn-sql-by-building-a-student-database-part-1%2Fmain%2Ftutorial.json,CODEROAD_DISABLE_RUN_ON_SAVE=true/https://github.com/Laboratoria/learn-sql-by-building-a-student-database-part-1).
 
+Comandos usados en el tutorial Parte 1:
+
+
+
 ### [Learn SQL by Building a Student Database: Part 2](https://github.com/Laboratoria/learn-sql-by-building-a-student-database-part-2)
 
 En el segundo tutorial, profundizarás en la administración y análisis
@@ -43,7 +42,9 @@ eficiente y segura de tu entorno.
 
 Haz clic [aquí para iniciar el segundo tutorial](https://gitpod.io/new/?autostart=true#CODEROAD_TUTORIAL_URL=https%3A%2F%2Fraw.githubusercontent.com%2FLaboratoria%2Flearn-sql-by-building-a-student-database-part-2%2Fmain%2Ftutorial.json,CODEROAD_DISABLE_RUN_ON_SAVE=true/https://github.com/Laboratoria/learn-sql-by-building-a-student-database-part-2)
 
-## 4. Configuración del Ambiente de Desarrollo
+Comandos usados en el tutorial parte 2:
+
+## 2. Configuración del Ambiente de Desarrollo
 
 Los tutoriales usan [Gitpod](https://gitpod.io/). Con Gitpod, las
 desarrolladores pueden iniciar instantáneamente un entorno de desarrollo
@@ -104,7 +105,7 @@ Para crear una cuenta en Gitpod utilizando GitHub, sigue estos pasos:
 Puedes obtener un historial de los comandos ejecutados en una terminal
 con el comando `history`.
 
-## 7. Objetivos de aprendizaje
+## 3. Objetivos de aprendizaje
 
 Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
 
