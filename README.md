@@ -25,7 +25,16 @@ scripts Bash para automatizar tareas y gestionar permisos de archivos.
 Haz clic [aquí para iniciar el primer tutorial](https://gitpod.io/new/?autostart=true#CODEROAD_TUTORIAL_URL=https%3A%2F%2Fraw.githubusercontent.com%2FLaboratoria%2Flearn-sql-by-building-a-student-database-part-1%2Fmain%2Ftutorial.json,CODEROAD_DISABLE_RUN_ON_SAVE=true/https://github.com/Laboratoria/learn-sql-by-building-a-student-database-part-1).
 
 Comandos usados en el tutorial Parte 1:
-
+- Start the Terminal -> echo hello SQL
+- psql login -> psql --username=freecodecamp --dbname=postgres
+- \l
+- CREATE DATABASE students;
+- \c students
+- \d
+- Create student_id Column -> ALTER TABLE students ADD COLUMN student_id SERIAL PRIMARY KEY;
+- Create first_name Column -> ALTER TABLE students ADD COLUMN first_name VARCHAR(50) NOT NULL;
+- Create major_id Column -> ALTER TABLE students ADD COLUMN major_id INT;
+- Create gpa Column -> ALTER TABLE students ADD COLUMN gpa NUMERIC(2,1);
 
 
 ### [Learn SQL by Building a Student Database: Part 2](https://github.com/Laboratoria/learn-sql-by-building-a-student-database-part-2)
@@ -43,6 +52,16 @@ eficiente y segura de tu entorno.
 Haz clic [aquí para iniciar el segundo tutorial](https://gitpod.io/new/?autostart=true#CODEROAD_TUTORIAL_URL=https%3A%2F%2Fraw.githubusercontent.com%2FLaboratoria%2Flearn-sql-by-building-a-student-database-part-2%2Fmain%2Ftutorial.json,CODEROAD_DISABLE_RUN_ON_SAVE=true/https://github.com/Laboratoria/learn-sql-by-building-a-student-database-part-2)
 
 Comandos usados en el tutorial parte 2:
+- Start the Terminal -> echo hello SQL
+- psql login -> sql --username=freecodecamp --dbname=postgres
+- \l
+- Rebuild database -> psql -U postgres < students.sql
+- select * from students;
+- touch student_info.sh
+- chmod +x student_info.sh
+- Add shebang -> #!/bin/bash
+- Add comment -> # Info about my computer science students from students database
+- Add echo title -> echo -e "\n~~ My Computer Science Students ~~\n"
 
 ## 2. Configuración del Ambiente de Desarrollo
 
