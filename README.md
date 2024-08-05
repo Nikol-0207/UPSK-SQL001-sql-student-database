@@ -1,9 +1,9 @@
 # Student Database
 
 ## Índice
-* [1. Resumen del proyecto](#3-resumen-del-proyecto)
-* [2. Configuración del Ambiente de Desarrollo](#4-configuracion-del-ambiente-de-desarrollo)
-* [3. Objetivos de aprendizaje](#7-objetivos-de-aprendizaje)
+* [1. Resumen del proyecto](#1-resumen-del-proyecto)
+* [2. Configuración del Ambiente de Desarrollo](#2-configuracion-del-ambiente-de-desarrollo)
+* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 
 ---
 
